@@ -16,3 +16,11 @@ Background GIF by [Anmol-Baranwal](https://github.com/Anmol-Baranwal/Cool-GIFs-F
 - ⚡ Fun fact: I read books, play the piano, and sleep with my dog!
 
 <div align="center">
+
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rcpbayindir&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcpbayindir&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
