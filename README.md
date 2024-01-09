@@ -27,4 +27,4 @@ Background GIF by [Anmol-Baranwal](https://github.com/Anmol-Baranwal/Cool-GIFs-F
 
 ## 💻 My Tech Stack:
 
-[![Spark, Python, Kafka, Sql](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Anaconda, Bash, Docker, Git, Github, Kafka, Kubernetes, Linux, Postgres, Python](https://skillicons.dev/icons?i=anaconda,bash,docker,git,github,kafka,kubernetes,linux,postgres,py)](https://skillicons.dev)
