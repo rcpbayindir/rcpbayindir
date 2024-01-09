@@ -9,7 +9,7 @@ Background GIF by [Anmol-Baranwal](https://github.com/Anmol-Baranwal/Cool-GIFs-F
 
 </div>
 
-- 🔭 I’m currently working at [![Togg](https://www.togg.com.tr/)](https://togg.com.tr)
+- 🔭 I’m currently working at [![Togg](https://togg-prd-cdn-ebcuc9ayg8fgegc8.z01.azurefd.net/assets/wsc/images/icons/logo.svg)](https://togg.com.tr)
 - 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).
 - 📝 I’m aiming to write **one article per week** starting from November 2023.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
