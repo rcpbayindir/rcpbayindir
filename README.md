@@ -5,7 +5,7 @@ Background GIF by [Anmol-Baranwal](https://github.com/Anmol-Baranwal/Cool-GIFs-F
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/recep-bayindir-03573450/) &nbsp;
-[![Medium](assests/medium.png)](https://medium.com/@recepbayindir)
+[![Medium](/assets/medium.png)](https://medium.com/@recepbayindir)
 
 </div>
 
