@@ -5,13 +5,7 @@ Background GIF by [Anmol-Baranwal](https://github.com/Anmol-Baranwal/Cool-GIFs-F
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/recep_bayindir) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/recep-bayindir-03573450/) &nbsp;
-[![Medium](/assets/medium.jpg)](https://medium.com/@recepbayindir)
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
-
-[![Medium](assests/medium.png)](https://medium.com/@recepbayindir)
-
+[![Medium](/assets/medium.jpg)](https://medium.com/@recepbayindir)  
 </div>
 
 - 🔭 I’m currently working at [![Togg](assets/togg.png)](https://togg.com.tr)
