@@ -9,7 +9,7 @@ Background GIF by [Anmol-Baranwal](https://github.com/Anmol-Baranwal/Cool-GIFs-F
 </div>
 
 - 🔭 I’m currently working at [![Togg](assets/togg.png)](https://togg.com.tr)
-- 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).
+- 🌱 I’m passionate about [data streaming]() and [big data technologies]().
 <div align="center">
 
 
